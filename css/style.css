@@ -377,7 +377,7 @@ header .links ul li:not(:last-child) a {
 }
 
 .cards figure:hover {
-    box-shadow: 1em 1em 1em rgba(146, 7, 211, 0.5);
+    box-shadow: 1em 1em 1em rgba(146, 7, 211, 0.438);
     transform: scale(1.1);
 
 }
